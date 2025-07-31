@@ -48,6 +48,7 @@ This project is an **educational ransomware simulator** that demonstrates how a 
 
 ## 🧪 Sample Output
 
+<img width="942" height="758" alt="image" src="https://github.com/user-attachments/assets/479076cc-2ccf-4500-9932-2377746118bd" />
 
 ---
 
